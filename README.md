@@ -1,2 +1,9 @@
 # .github
-A decentralized, high-speed prediction market and competitive leaderboard platform built on the Stellar network. Powered by Soroban smart contracts, it allows users to predict real-world outcomes, create public or private gamified competitions, and earn rewards with near-instant finality and fraction-of-a-cent fees.
+A next-generation prediction market blending traditional forecasting with competitive gamification, built entirely on Stellar & Soroban.
+
+Key Highlights:
+
+Decentralized Markets: Predict on sports, crypto, and real-world events.
+Custom Competitions: Anyone can create public or invite-only private leaderboards.
+Automated Escrow: Secure, transparent, and automated payouts via smart contracts.
+Stellar Speed: Near-instant settlement with incredibly low transaction fees.
