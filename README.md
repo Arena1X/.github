@@ -1,9 +1,2 @@
 # .github
-A next-generation prediction market blending traditional forecasting with competitive gamification, built entirely on Stellar & Soroban.
-
-Key Highlights:
-
-Decentralized Markets: Predict on sports, crypto, and real-world events.
-Custom Competitions: Anyone can create public or invite-only private leaderboards.
-Automated Escrow: Secure, transparent, and automated payouts via smart contracts.
-Stellar Speed: Near-instant settlement with incredibly low transaction fees.
+ A  next-generation prediction market platform that blends traditional forecasting with competitive gamification, built entirely on the Stellar network using Soroban smart contracts. It enables users to predict outcomes across sports, crypto, and real-world events through decentralized markets while also allowing anyone to create public or invite-only private competitions with dynamic leaderboards. The platform uses automated escrow powered by smart contracts to ensure secure, transparent, and trustless payouts. Leveraging Stellar’s high-speed infrastructure, InsightArena delivers near-instant transaction settlement with extremely low fees, creating a seamless and scalable prediction experience.
